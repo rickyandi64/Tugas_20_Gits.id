@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Tugas_20/app/src/main/res/drawable/ic_location.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Tugas_20/app/src/main/res/drawable/ic_person.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Tugas_20/app/src/main/res/drawable/ic_person_1.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Tugas_20/app/src/main/res/drawable/round_bg.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Tugas_20/app/src/main/res/drawable/round_border.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Tugas_20/app/src/main/res/drawable/wave.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Tugas_20/app/src/main/res/layout/activity_main.xml" value="0.3235294117647059" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
